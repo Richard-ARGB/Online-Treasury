@@ -1,6 +1,17 @@
-## Sistema-Tesoreria
+# Web Treasury System
+This project is a web treasury system developed with Angular and Spring Boot.
 
- Sistema de Tesoreria Versión Web, mediante Angular y Spring boot.
+## Purpose
+This system provides a tool for managing the finances of a business or organization. It allows you to track bank accounts, transactions, and balances.
+
+## Features
+Account Management: Create, edit, and delete bank accounts.
+Transaction Management: Record bank transactions (deposits, withdrawals, transfers).
+Balance Management: Generate bank account balances.
+## Technology Stack
+Frontend: Angular
+Backend: Spring Boot
+Database: MySQL
 
 ## Version
 
